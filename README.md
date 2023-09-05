@@ -8,4 +8,4 @@ taking the course. These files are largely what I
 use during recitation sections. Note that there are
 other demos available within the class Google drive.
 
-
+Hope this helps.
